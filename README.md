@@ -23,3 +23,8 @@ Future Work:
 
 This One Dimensional Thermal Diffusion Problem uses Pseudo-Transient solution marching while implementing an Isothermal, Heat convection, and Source Term boundary conditions
 These implementations display a good non-linearity in temperature change as well as a temperature drop from the right side of the rod due to the heat convection boundary condition
+
+
+![1d_solution](https://github.com/coletonbickle/Thermal-Diffusion-Numerical-Simulations/assets/91445808/28a664cf-40e5-445c-a490-eb51bc92d79b)
+
+
