@@ -10,7 +10,7 @@ Methods:
     Gauss-Seidel Matrix-Wise Linear Solver,
     and an Under Relaxation Factor
     
-Boundary Conditions
+Boundary Conditions:
     Isothermal (Left Side)
     Convective Heat Transfer (Right Side)
     Source Term (Heat Generation Within Rod)
@@ -21,7 +21,7 @@ Future Work:
     to a two dimensional thermal diffusion across a plate while implementing
     various different boundary conditions
 
-This One Dimensional Thermal Diffusion Problem uses Pseudo-Transient solution marching while implementing an Isothermal, Heat convection, and Source Term boundary conditions
+This One Dimensional Thermal Diffusion Problem uses Pseudo-Transient solution marching while implementing an Isothermal, Heat convection, and Source Term boundary conditions.
 These implementations display a good non-linearity in temperature change as well as a temperature drop from the right side of the rod due to the heat convection boundary condition
 
 
