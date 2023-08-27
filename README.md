@@ -1,7 +1,8 @@
 # Thermal-Diffusion-Numerical-Simulations
 
-'''
+
 Description: One Dimensional Thermal Diffusion Problem
+
 Author: Coleton C. Bickle
 
 Methods:
@@ -19,7 +20,6 @@ Future Work:
     numerical method to a one dimensional thermal diffusion problem eventually
     to a two dimensional thermal diffusion across a plate while implementing
     various different boundary conditions
-'''
 
 This One Dimensional Thermal Diffusion Problem uses Pseudo-Transient solution marching while implementing an Isothermal, Heat convection, and Source Term boundary conditions
 These implementations display a good non-linearity in temperature change as well as a temperature drop from the right side of the rod due to the heat convection boundary condition
