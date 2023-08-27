@@ -6,9 +6,9 @@ Description: One Dimensional Thermal Diffusion Problem
 Author: Coleton C. Bickle
 
 Methods:
-    Pseudo-Transient Second Order Accurate Spatial Discretization
-    Gauss-Seidel Matrix-Wise Linear Solver
-    Under Relaxation Factor
+    Pseudo-Transient Second Order Accurate Spatial Discretization,
+    Gauss-Seidel Matrix-Wise Linear Solver,
+    and an Under Relaxation Factor
     
 Boundary Conditions
     Isothermal (Left Side)
