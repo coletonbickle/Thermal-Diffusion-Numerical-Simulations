@@ -18,7 +18,7 @@ Boundary Conditions:
 Future Work:
     I am intending to apply what I have learned from implementing an implicit
     numerical method to a one dimensional thermal diffusion problem eventually
-    to a two dimensional thermal diffusion across a plate while implementing
+    to a two dimensional thermal diffusion problem across a heated plate while implementing
     various different boundary conditions
 
 This One Dimensional Thermal Diffusion Problem uses Pseudo-Transient solution marching while implementing an Isothermal, Heat convection, and Source Term boundary conditions.
