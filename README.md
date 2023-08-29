@@ -6,7 +6,8 @@ Description: One Dimensional Thermal Diffusion Problem
 Author: Coleton C. Bickle
 
 Methods:
-    Pseudo-Transient Second Order Accurate Spatial Discretization,
+    Pseudo-Transient Steady State Solver,
+    Second Order Accurate Spatial Discretization,
     Gauss-Seidel Matrix-Wise Linear Solver,
     and an Under Relaxation Factor
     
@@ -21,10 +22,11 @@ Future Work:
     to a two dimensional thermal diffusion problem across a heated plate while implementing
     various different boundary conditions
 
-This One Dimensional Thermal Diffusion Problem uses Pseudo-Transient solution marching while implementing an Isothermal, Heat convection, and Source Term boundary conditions.
-These implementations display a good non-linearity in temperature change as well as a temperature drop from the right side of the rod due to the heat convection boundary condition
+This One Dimensional Thermal Diffusion Problem uses a Pseudo-Transient Steady-State solver while implementing an Isothermal, Heat convection, and Source Term boundary conditions.
+These implementations display a good non-linearity in temperature change as well as a temperature drop from the right side of the rod due to the heat convection boundary condition.
 
 
-![1d_solution](https://github.com/coletonbickle/Thermal-Diffusion-Numerical-Simulations/assets/91445808/28a664cf-40e5-445c-a490-eb51bc92d79b)
+![1d_solution2](https://github.com/coletonbickle/Thermal-Diffusion-Numerical-Simulations/assets/91445808/71132ea6-adbe-44c2-b524-9bb1e1d0f4d4)
+
 
 
