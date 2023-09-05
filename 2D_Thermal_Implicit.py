@@ -103,7 +103,7 @@ def main():
             elif np.isin(k,Flag_R):
                 b[k] = bp[k-1]                           # Adiabatic  Wall BC
             elif np.isin(k,Flag_L):
-                b[k] = q2dot*dx/k1+bp[k+1]               # Isothermal Wall BC
+                b[k] = q2dot*dx/k1+bp[k+1]               # Heat Sink BC
             elif np.isin(k,Flag_B):
                 b[k] = (T_inf+Nuinv*bp[k-pts])/(Nuinv+1) # Heat Convection BC
             elif np.isin(k,Flag_T):
